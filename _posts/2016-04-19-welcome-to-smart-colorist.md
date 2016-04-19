@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Welcome to SmArt Colorist!'
-datePublished: '2016-04-19T15:51:27.597Z'
-dateModified: '2016-04-19T15:50:01.318Z'
+datePublished: '2016-04-19T15:54:19.754Z'
+dateModified: '2016-04-19T15:52:21.726Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-welcome-to-smart-colorist.md
@@ -28,7 +28,7 @@ Welcome to SmArt Colorist!
 
 The adult coloring craze has taken the world by storm!
 
-I have been a "closet" colorist for many years...drawung doodles, only to have them to color...
+I have been a "closet" colorist for many years...drawing doodles, only to have them to color...
 
 ...Searching the children section of book stores looking for coloring books with any substance.
 
