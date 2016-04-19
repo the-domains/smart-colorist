@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Welcome to SmArt Colorist!'
-datePublished: '2016-04-19T15:54:19.754Z'
-dateModified: '2016-04-19T15:52:21.726Z'
+datePublished: '2016-04-19T15:56:05.708Z'
+dateModified: '2016-04-19T15:55:09.775Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-welcome-to-smart-colorist.md
