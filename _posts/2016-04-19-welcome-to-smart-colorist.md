@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Welcome to SmArt Colorist!'
-datePublished: '2016-04-19T16:11:40.647Z'
-dateModified: '2016-04-19T16:11:39.862Z'
+datePublished: '2016-04-19T16:12:56.704Z'
+dateModified: '2016-04-19T16:12:56.000Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-welcome-to-smart-colorist.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![left, right from Kaleidoscope Wonders, center Angie Grace Cool](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e354e32-9ac2-493e-98f9-20b7bca0d0a4.jpg)
 
-Welcome to SmArt Colorist!
+**Welcome to SmArt Colorist!**
 
 The adult coloring craze has taken the world by storm!
 ![from ColorIt- Calming Doodles Vol. 1](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11f18237-707d-4fcb-98ab-2ac17fddee04.jpg)
