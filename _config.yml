@@ -1,0 +1,28 @@
+name: SmArt Colorist
+favicon: null
+layout_spectrum: 0.33614902663975954
+typography_spectrum: 0.6474432030227035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.26294537633657455
+  lightness: 0.9764592263381928
+  saturation: 0.568401359487325
+  rhythmicContrast: 0.33839664910919964
+purpose: []
