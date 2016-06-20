@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to SmArt Colorist!
-datePublished: '2016-06-20T16:58:53.341Z'
-dateModified: '2016-06-20T16:57:05.210Z'
+datePublished: '2016-06-20T17:00:03.982Z'
+dateModified: '2016-06-20T16:58:53.812Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-welcome-to-smart-colorist.md
@@ -44,4 +44,3 @@ June 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/049393a2-763c-4159-b681-7b0dfbdee4a3.jpg)
 
 \#2 From Angie Grace- Balance for Wide Tipped Markers
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f0701f0-e95d-4975-b1a7-59396c05758d.jpg)
