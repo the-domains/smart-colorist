@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'Welcome to SmArt Colorist!'
-datePublished: '2016-04-19T16:43:58.433Z'
-dateModified: '2016-04-19T16:43:51.025Z'
+description: Welcome to SmArt Colorist!
+datePublished: '2016-06-20T16:53:55.991Z'
+dateModified: '2016-06-20T16:53:34.121Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-welcome-to-smart-colorist.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: welcome-to-smart-colorist/index.html
 _type: Article
 
@@ -41,3 +36,12 @@ This blog/vlog will review many of the adult coloring books on the market. I wil
 -accessories/tools
 
 I will upload completed colorings from my collection. You may also get chance to see my "coloring assistants" -Mazzy and Zuzu (my yorkies) and Kiki (my kitty). You never know when they will be giving me tips on the current coloring. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc3ae60-8782-4a3f-9632-9ec1597d149c.jpg)
+
+June 2016
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6fb7344-34a0-4c3c-a918-4ffc6839508e.jpg)
+
+\#1 From Angie Grace- Balance for Wide Tipped Markers
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/049393a2-763c-4159-b681-7b0dfbdee4a3.jpg)
+
+\#2 From Angie Grace- Balance for Wide Tipped Markers
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56ec09af-94ff-4991-b5c1-f8d7808523e8.jpg)
